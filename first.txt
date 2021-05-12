@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 this is a change
 this is a second change
+=======
+>>>>>>> parent of 11cadc8... new
